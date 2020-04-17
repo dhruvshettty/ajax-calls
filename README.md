@@ -16,3 +16,11 @@ Coin Desk API Endpoint: https://api.coindesk.com/v1/bpi/currentprice.json
 Fetch Documentation: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 Random User API Endpoint: https://randomuser.me/api/
+
+### jQuery
+
+jQuery AJAX call methods: https://api.jquery.com/category/ajax/
+
+Random Cat API Endpoint: https://aws.random.cat/meow
+
+Bacon Ipsum API Endpoint: https://baconipsum.com/api/?type=meat-and-filler
