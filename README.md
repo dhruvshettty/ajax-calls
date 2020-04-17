@@ -24,3 +24,5 @@ jQuery AJAX call methods: https://api.jquery.com/category/ajax/
 Random Cat API Endpoint: https://aws.random.cat/meow
 
 Bacon Ipsum API Endpoint: https://baconipsum.com/api/?type=meat-and-filler
+
+Testing commit changes
