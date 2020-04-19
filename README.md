@@ -24,3 +24,13 @@ jQuery AJAX call methods: https://api.jquery.com/category/ajax/
 Random Cat API Endpoint: https://aws.random.cat/meow
 
 Bacon Ipsum API Endpoint: https://baconipsum.com/api/?type=meat-and-filler
+
+Additional Resources: http://youmightnotneedjquery.com/
+
+### Axios
+
+Axios GitHub repo: https://github.com/axios/axios
+
+Open Trivia DB API: https://opentdb.com/
+
+JSON PlaceHolder API: https://jsonplaceholder.typicode.com/
